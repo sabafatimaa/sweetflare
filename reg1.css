@@ -26,6 +26,7 @@ label{
 	padding: 20px;
 	margin: 28px;
 	border-radius: 20px;
+	box-shadow: 0 5px 10px rgba(0, 0, 0, .1);
 	background: white;
 	justify-content: center;
 }
