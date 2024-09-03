@@ -179,7 +179,7 @@ header p {
 .box p {
     margin-top: 10px;
     text-align: center;
-    color: #333;
+    color:#f0d7a7;
     font-size: 20px
 }
 
@@ -229,10 +229,8 @@ header p {
     display: flex;
     flex-direction: column;
     align-items: center;
-    
     padding: 20px;
     border-radius: 8px;
-   
     transition: transform 0.2s;
 }
 
