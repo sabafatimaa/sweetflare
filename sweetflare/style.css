@@ -124,7 +124,7 @@ header p {
 }
 .box a{
     text-decoration: none;
-    color: #c37960;
+    color: #333;
     font-size: 15px;
 }
 .box:hover {
